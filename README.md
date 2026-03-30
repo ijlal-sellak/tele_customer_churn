@@ -16,11 +16,11 @@ The analysis includes:
 -  **Exploratory Data Analysis (EDA)**
 -  **Handling Missing and Inconsistent Data**
 -  **Visualization of Key Metrics**
--   *(Optional)* Basic modeling or classification if implemented
+-    Basic modeling or classification if implemented
 
 ##  Tools & Libraries
 
-- Python 3.x  
+
 - pandas  
 - numpy  
 - matplotlib / seaborn  
